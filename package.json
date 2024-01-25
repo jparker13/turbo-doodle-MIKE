@@ -4,6 +4,7 @@
   "description": "Spring 24 CIS 486 Mike Lab",
   "main": "index.js",
   "scripts": {
+    "dev": "nodemon app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
